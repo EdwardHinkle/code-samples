@@ -1,4 +1,4 @@
-# My Code Samples
+# Eddie's Code Samples
 Samples of my programming history
 
 ## JavaScript Samples
